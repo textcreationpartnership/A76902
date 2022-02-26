@@ -1,0 +1,199 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bloudy newes from the Barbadaes [sic], being a true relation of a great and terrible fight between the Parliaments Navie, commanded by Sir George Ayscue; and the king of Scots forces under the conduct and command of the Lord Willoughby. With the particulars of the fight; the storming of the island; the manner how the Parliaments forces were repulsed, and beaten off from Carlisle Bay, and the blockhouse; and the number killed and wounded. Likewise, a dangerous fight in Scotland, between the Parliaments forces, and the red-shanks; the manner of the fight; and the event and success thereof. Published for general satisfaction.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76902</idno>
+            <idno type="STC">Wing B3280</idno>
+            <idno type="STC">Thomason E655_16</idno>
+            <idno type="STC">ESTC R205962</idno>
+            <idno type="EEBO-CITATION">99865176</idno>
+            <idno type="PROQUEST">99865176</idno>
+            <idno type="VID">166068</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76902)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166068)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 100:E655[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Bloudy newes from the Barbadaes [sic], being a true relation of a great and terrible fight between the Parliaments Navie, commanded by Sir George Ayscue; and the king of Scots forces under the conduct and command of the Lord Willoughby. With the particulars of the fight; the storming of the island; the manner how the Parliaments forces were repulsed, and beaten off from Carlisle Bay, and the blockhouse; and the number killed and wounded. Likewise, a dangerous fight in Scotland, between the Parliaments forces, and the red-shanks; the manner of the fight; and the event and success thereof. Published for general satisfaction.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G. Horton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Febr. 25"; The "2" in the imprint is crossed out; "1651".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Barbados --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166068:1" rendition="simple:additions"/>
+            <p>BLOUDY NEWES FROM THE BARBADAES, BEING A true Relation of a great and terrible fight between the Parliaments Navie, commanded by Sir <hi>George Ayſcue;</hi> and the King of <hi>Scots</hi> Forces under the conduct and command of the Lord <hi>Willoughby.</hi>
+            </p>
+            <p>With the particulars of the Fight; the ſtorming of the Iſland; the manner how the Parliaments Forces were repulſed, and beaten off from Carliſle Bay, and the Block<g ref="char:EOLhyphen"/>houſe; and the number killed and wounded.</p>
+            <p>Likewiſe, a dangerous Fight in Scotland, between the Parliaments Forces, and the Red<g ref="char:EOLhyphen"/>ſhanks; the manner of the Fight; and the event and ſucceſs thereof.</p>
+            <p>Publiſhed for general ſatisfaction.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>G. HORTON,</hi> 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:166068:2"/>
+            <pb n="3" facs="tcp:166068:2"/>
+            <head>A bloudy Fight in Scotland between the Redſhanks, and the Parliaments forces, the particulars thereof, and the number killed and taken priſoners.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THe reducing of the Wild Scots, we fear will prove a work of great diffi<g ref="char:EOLhyphen"/>culty; for many of them are brake forth in<g ref="char:EOLhyphen"/>to new diſtempers and Rebellion, being headed by the Clans and Mac-Donals; and on the 12 of this inſtant Feb. advanced as far as Innerneſs, where they fell upon the Parliaments forces, and put almoſt all to the ſword that they met withall. However, we have ſince pretty well paid them home; for on the 14 inſtant a party of Col. Okey's Dragoons met with them neer Chivy-chaſe
+<pb n="4" facs="tcp:166068:3"/>where they hunted them handſomely, killed about one hundred, and took about two hundred priſo<g ref="char:EOLhyphen"/>ners. Yet notwithſtanding, they declare high for their King; but we doubt not, but (in proceſs of time) to bring them low for the Parliament of the Common-wealth of England. And upon theſe prin<g ref="char:EOLhyphen"/>ciples, we may preſume to build our foundation, viz. For whereas the Commoners of England in this Age of the world are riſen up in an Army, and have caſt out that Invaſion of the duke of Normandy, and have won their Land and Liberties again by the Sword, if they do not ſuffer their Councels to be<g ref="char:EOLhyphen"/>fool them into ſlavery again upon a new accompt. For if ſo be that Kingly Authority be ſet up in your Laws again, King CHARLES hath conquered you and your Poſterity by policy, and won the field of you, though you have ſeemingly cout off his head. for the ſtrength of a King lies not in the viſible ap<g ref="char:EOLhyphen"/>pearance of his body, but in his Will, Laws, and Au<g ref="char:EOLhyphen"/>thority. But if you remove Kingly Government, and ſet up true and free Common-wealths Govern<g ref="char:EOLhyphen"/>ment, then you gain your Crown, and keep it, and leave peace to your Poſterity.</p>
+            <closer>
+               <dateline>Dundee <date>16 Feb. 1652:</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="postscript">
+            <pb n="5" facs="tcp:166068:3"/>
+            <head>POSTSGRIPT.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>SInce the cloſe of this Letter, we have received an Abſtract, or Narrative, of the Tranſaction of Affairs in France; a breviate whereof take as fol<g ref="char:EOLhyphen"/>loweth:</p>
+            <p>Since my laſt of the 14 inſt<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt, The Prince of <hi>Conde</hi> hath obtained a gr<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at Victory againſt the Kings Forces, having routed a great part of the Cardinals Army, and killed and taken above 3000 men. But by r<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on of a great Con<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>piracy in the City of <hi>Angiers,</hi> for deliver<g ref="char:EOLhyphen"/>ing up of the Town to the King, his Highneſs was in forced to de<g ref="char:EOLhyphen"/>ſiſt from from his further purſuit, to endeavor the compoſing of all differences, and extinguiſhing the flames, which were ſo unhappily broken forth amongſt them. For effecting whereof, the Duke of <hi>Rhone</hi> ſeized on the perſons of the Earl of <hi>Monta<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g,</hi> the Lord Mar<g ref="char:EOLhyphen"/>ſhal, and divers others, and immediatly brought them to a Tryall before a Councel of War, where a Charge of High-Treaſon was r<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d againſt them, <hi>For their perfidiouſneſs, in betraying their Truſt, and r<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>olting from the Parliament to the King,</hi> &amp;c. After the erading of the ſaid Charge by the Judge Advocate; the priſoners at the Bar were required to anſwer unto the Articles exhibited againſt them: But they denied to acknowledge the Authority of the Court, ſaying, <hi>That here was no lawful Judicature in any Kingdom, that took Rebellion to be their Ba<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mer:</hi> Whereupton the Court reſolved to proceed to Sen<g ref="char:EOLhyphen"/>tence; and accordingly the Judge Advocate denounced the ſame; which was, <hi>That the Earl of</hi> Mont<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>g <hi>ſhould have his head ſevered from his ſhoulders;</hi> and the Lord Marſh<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l, <hi>to be ſh<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t to death.</hi>
+            </p>
+            <p>The King of <hi>Scots</hi> hath ſent a Letter to S<hi rend="sup">r</hi> 
+               <hi>Jacob Middleton,</hi> and di<g ref="char:EOLhyphen"/>vers other Gentlemen in <hi>Waler,</hi> imploring them to uſe the utmoſt of their endeavors for his reſtauration, and to fight for a juſt King, an oppreſſed Countrey, and for a Religion truly Chriſtian, againſt all thoſe who endeavour to alienate the Crown from him and the roy<g ref="char:EOLhyphen"/>all Poſterity. Theſe fair adjutations and perſwaſions wrought up<g ref="char:EOLhyphen"/>on the hearts of man diſcontented ſpirits, who began to talk high, ſaying, <hi>That before</hi> Eaſter <hi>her doubted not, but to ſee her good King in her own Countrey again with</hi> 40000 <hi>fighting men:</hi> Whereupon the Well-affected roſe, apprehended divers, and hath quelled the humours of the reſt.</p>
+         </div>
+         <div type="declaration">
+            <pb n="6" facs="tcp:166068:4"/>
+            <head>A Declaration for Freedom.</head>
+            <p>Whereas if an Army be raiſed to caſt out Kingly op<g ref="char:EOLhyphen"/>preſſion, and if the Heads of that Army promiſe a <hi>Common<g ref="char:EOLhyphen"/>wealths Freedons</hi> to the <hi>oppreſſed people,</hi> if in caſe they will aſ<g ref="char:EOLhyphen"/>ſiſt with perſon and purſe; and if the people do aſſiſt, and prevail over the Tyrant, thoſe Officers are bound by the Law of Juſtice (who is God) to make good their Engage<g ref="char:EOLhyphen"/>ments: And if they do not ſet the Land free from the bran<g ref="char:EOLhyphen"/>ches of the <hi>Kingly oppreſſion,</hi> but reſerve ſome part of the <hi>Kingly power</hi> to advance their own particular Intereſt, whereby ſome of their friends are left under as great ſlave<g ref="char:EOLhyphen"/>ry to them, as they were under the Kings; Thoſe Officers are not faithful <hi>Commonwealths ſouldiers,</hi> they are worſe Ty<g ref="char:EOLhyphen"/>rant and Thieves then the King they caſt out; and that <hi>ho<g ref="char:EOLhyphen"/>nor</hi> they ſeemed to get by their victories over the <hi>Common wealths Oppreſſor</hi> they loſt again, by breaking promſie and engagement to their opreſſed friends who did aſſiſt them. For what difference is there between a profeſſed Tyrant, that declares himſelf a Tyrant in words, laws and deeds, as all <hi>Conquerors</hi> do, and him who promiſes tofree me from the power of the Tyrant if I'le aſſiſt him; and when I have ſpent my eſtate and bloud, and expect my bargain by his Engagements to me, he ſits himſelf down in the Tyrants chair, and takes the poſſeſſion of the Land to himſelf, and ealls it his, and none of mine, and tells me he cannot in <hi>con<g ref="char:EOLhyphen"/>ſcience</hi> let me enjoy the freedom of the Farth with him, be<g ref="char:EOLhyphen"/>cauſe it is another mans right?</p>
+            <p>Such a ſouldier as this Engagement-breaker is neither a friend to the Creation; nor to a particular <hi>Commonwealth,</hi> but a ſelf-lover, and a hypocrite; for he did not fight to ſet the Earth free from the bondage of the Oppreſſor, as he pretended by his Engagements; but to remove that pow<g ref="char:EOLhyphen"/>er out of the others hand into his own. And this is juſt like the Beaſts who fight for maſtery and keeps it, not relieve<g ref="char:EOLhyphen"/>ing
+<pb n="7" facs="tcp:166068:4"/>but ſtill Lording and Kinging over the weak. Theſe are Monarchical ſouldiers, not <hi>Commen-wealths</hi> ſouldiers; and ſuch a ſouldier is a murderer, and his warfare is unlaw<g ref="char:EOLhyphen"/>full. But ſouldiers of true noble ſpirits will help the weak, and ſet the Oppreſſed free, and delight to ſee the <hi>Common<g ref="char:EOLhyphen"/>wealth</hi> flouriſh in freedom, as well as their own gardens.</p>
+            <p>There is none of this true Nobility in a Monarchical Ar<g ref="char:EOLhyphen"/>my, for they are all ſelf-lovers; the beſt is as a bryar, and the moſt upright amongſt them is as a Thorn: ſpeak you Prophets of old if this be not true.</p>
+            <p>A Monarchial Army lifts up Mountains, and makes val<g ref="char:EOLhyphen"/>lies, <hi>viz.</hi> Advances Tyrants, and treads the Oppreſſed in the barren lanes of poverty.</p>
+            <p>But a <hi>Common-wealths</hi> Army is like <hi>John Baptiſt,</hi> who le<g ref="char:EOLhyphen"/>vels tha Mountains to the Valleys, pulls down the Tyrant, and lifts <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p the Oppreſſed; and ſo makes way for the ſpi<g ref="char:EOLhyphen"/>rit of Peace and Freedom to come in to rule and inherit the Earth.</p>
+            <p>And by this which hath been ſpoken, an Army may ſee wherein they may do well, and wherein they may do hurt. Therefore you Army of <hi>Englands</hi> Common wealth look to it; the Enemy could not beat you in the field, but they may be too hard for you by policy in councel, if you do not ſtick cloſe to ſee Common Freedom eſtabliſhed.</p>
+         </div>
+         <div type="account">
+            <p>From <hi>Holland</hi> they write, That M<hi rend="sup">r</hi> 
+               <hi>Lilburns</hi> declares high con<g ref="char:EOLhyphen"/>cerning the parl. <hi>but we may give loſers leave to talk;</hi> The <hi>Hollander</hi> ſeems to fly high againſt <hi>England</hi> and the Engliſh are warned not to come upon the Exchange, left they ſhould be taken for Spies. <hi>O horrible ingratitude! What have you forgotten the dayes of old?</hi>
+            </p>
+            <p>They give out, that they will ſet forth 150 Men of War in ſix weeks, and 100 more with Letters of <hi>Mart;</hi> telling the people, that the parl. demands 800000 <hi>li.</hi> for <hi>Amboyna</hi> buſineſs, beſides the tenth <hi>Herring, Fluſhing, Rammekins,</hi> free Trade to <hi>Antwerp,</hi> and through the <hi>Zound: It ſeems they love their money, better then ancient courteſies.</hi>
+            </p>
+            <pb n="8" facs="tcp:166068:5"/>
+            <p>By an Expreſs from the Parliaments Fleet lying before the Barbadoes, it is certified, that Sir George Ayſcue finding the Lord Willoughby to be very reſolute and obſtinate, called a Councel of Officers; whoſe reſult was, forthwith to ſtorm Carliſle Block<g ref="char:EOLhyphen"/>houſe; for effecting whereof, about 60 Long-boats were compleatly man'd with Sea-men, who endea<g ref="char:EOLhyphen"/>vor'd to ſtorm the fort, and to enter the Bay; but ſo great was the Repulſe which they received, that they was inforced to make good their Retreat, with the loſs of 15 men, and to betake themſelves for ſanctuary to their ſhips again. However, the loſs is ſuppoſed to be equal on both ſides: And the Lord VVilloughby is exceeding vigilant, to make the beſt of a bad cauſe; for he rides the Rounds (in perſon) every Night, from Fort to Fort, promiſing his ſoul<g ref="char:EOLhyphen"/>diers the free prize of the Parliaments Navie; but with this proviſoe, I befeech you, when they con catch it.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
